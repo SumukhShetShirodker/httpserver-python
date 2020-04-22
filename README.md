@@ -1,7 +1,7 @@
 # httpserver-python
-A Simple web server created by HTTPServer module in python
+_A Simple web server created by HTTPServer module in python_
 
-##How to Start
+## How to Start
 
 >python server.py
 
