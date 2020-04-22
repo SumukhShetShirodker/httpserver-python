@@ -1,8 +1,8 @@
 # httpserver-python
 A Simple web server created by HTTPServer module in python
 
-How to Start
+##How to Start
 
-*python server.py
+>python server.py
 
-*then go on localhost:3700
+>then go on localhost:3700
